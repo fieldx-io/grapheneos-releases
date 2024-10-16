@@ -1,2 +1,3 @@
-# grapheneos-releases
+# GrapheneOS meets FieldX 
+
 GrapheneOS with preinstalled FieldX MDM. 
